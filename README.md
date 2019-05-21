@@ -22,7 +22,7 @@ Due to this intense nature of the sport, doping has been long associated with th
     - Team name (link ), 
     - Drug-doctor association (link)
     
-##### Variable List
+#### Variable List
 - **Drugged Riders+Team**
   - Year of race
   - Team
