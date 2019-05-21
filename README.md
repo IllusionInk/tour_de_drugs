@@ -65,10 +65,10 @@ Due to this intense nature of the sport, doping has been long associated with th
 #### Visualisations
 ---
 - **a) History of Doping**
-    ![doping_history](https://github.com/IllusionInk/tour_de_drugs/blob/master/viz_key/Doped%20Riders_bd.jpg)
+    ![doping_history](https://github.com/IllusionInk/tour_de_drugs/blob/master/viz_key/Doped%20Riders_bd1.jpg)
 - **b) Impact on Clean Riders**
-    ![clean_history](https://github.com/IllusionInk/tour_de_drugs/blob/master/viz_key/Clean%20Riders_bd.jpg)
+    ![clean_history](https://github.com/IllusionInk/tour_de_drugs/blob/master/viz_key/Clean%20Riders_bd1.jpg)
 - **c) Drug Network ( Doctor-Rider associations)**
-    ![drug_network](https://github.com/IllusionInk/tour_de_drugs/blob/master/viz_key/Drug%20Network%20bd.jpg)
+    ![drug_network](https://github.com/IllusionInk/tour_de_drugs/blob/master/viz_key/Drug%20Network%20bd1.jpg)
 
 *Visit the [Behance link](https://www.behance.net/gallery/72687679/Tour-De-Drugs-Data-Narrative) for detailed Design Documentation and interactive prototype of the narrative visualisation*
