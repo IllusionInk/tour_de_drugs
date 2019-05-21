@@ -4,6 +4,7 @@
 Due to this intense nature of the sport, doping has been long associated with the race.The possibility of competition, rise in economic stakes produced a system of high rewards for winners.
 
 
+*[Behance link](https://www.behance.net/gallery/72687679/Tour-De-Drugs-Data-Narrative) for detailed Design Documentation and interactive prototype of the narrative visualisation*
 
 ### Need ?
 ---
@@ -64,11 +65,11 @@ Due to this intense nature of the sport, doping has been long associated with th
 
 #### Visualisations
 ---
-- **a) History of Doping**
+- **a) History of Doping - [View Prototype](https://vimeo.com/301324294)**
     ![doping_history](https://github.com/IllusionInk/tour_de_drugs/blob/master/viz_key/Doped%20Riders_bd1.jpg)
-- **b) Impact on Clean Riders**
+- **b) Impact on Clean Riders - [View Prototype](https://vimeo.com/301332973)**
     ![clean_history](https://github.com/IllusionInk/tour_de_drugs/blob/master/viz_key/Clean%20Riders_bd1.jpg)
-- **c) Drug Network ( Doctor-Rider associations)**
+- **c) Drug Network ( Doctor-Rider associations) - [View Prototype](https://vimeo.com/301334467)**
     ![drug_network](https://github.com/IllusionInk/tour_de_drugs/blob/master/viz_key/Drug%20Network%20bd1.jpg)
 
-*Visit the [Behance link](https://www.behance.net/gallery/72687679/Tour-De-Drugs-Data-Narrative) for detailed Design Documentation and interactive prototype of the narrative visualisation*
+*Visit the [Behance link](https://www.behance.net/gallery/72687679/Tour-De-Drugs-Data-Narrative) for detailed Design Documentation of the narrative visualisation*
