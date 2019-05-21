@@ -11,7 +11,7 @@ Due to this intense nature of the sport, doping has been long associated with th
   - The damage done to the sport and other riders is often unknown.  The larger story provides users a larger context of the practice of doping on the entire sport. 
 
 
-##### Trigger Questions:
+#### Trigger Questions:
 ![trigger](https://github.com/IllusionInk/tour_de_drugs/blob/master/reference_assets/tdd_git1.jpg)
 
 ### Initial Data Analysis
